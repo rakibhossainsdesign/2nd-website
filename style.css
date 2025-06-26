@@ -1,0 +1,8 @@
+h2{
+    color: red;
+}
+p{
+    border: red double 10px;
+    color: blue;
+    background-color: yellow;
+}
